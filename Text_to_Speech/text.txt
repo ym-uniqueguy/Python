@@ -1,0 +1,3 @@
+Hello World! Welcome to Python.
+
+What will you learn in this course? Python of course! Haha!
